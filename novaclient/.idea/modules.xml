@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../keystone/keystone/.idea/keystone.iml" filepath="$PROJECT_DIR$/../../keystone/keystone/.idea/keystone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python-keystoneclient/keystoneclient/.idea/keystoneclient.iml" filepath="$PROJECT_DIR$/../../python-keystoneclient/keystoneclient/.idea/keystoneclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../nova/nova/.idea/nova.iml" filepath="$PROJECT_DIR$/../../nova/nova/.idea/nova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/novaclient.iml" filepath="$PROJECT_DIR$/.idea/novaclient.iml" />
+    </modules>
+  </component>
+</project>
+
